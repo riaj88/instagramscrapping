@@ -3,8 +3,8 @@ Data scraping from Instagram
 
 pip install instaloader
 
-open with notepad and put insta profile id
+git clone https://github.com/riaj88/instagramscrapping.git
 
-save & close
+cd instagramscrapping
 
 python3 Instagramscrapping.py
