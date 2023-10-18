@@ -2,7 +2,7 @@ import instaloader
 from instaloader import Profile, Post
 
 # Define the Instagram ID of the profile you want to scrape data from 
-profile_id = "riaj_proggavaller"
+profile_id = " "
 
 # Create an instance of the Instaloader class
 loader = instaloader.Instaloader()
